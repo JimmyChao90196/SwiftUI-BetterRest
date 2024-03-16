@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74C601842BA3EDE6001915C7 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 74C601832BA3EDE6001915C7 /* SleepCalculator.mlmodel */; };
 		74DE84832BA3DECC00A4D0C7 /* SwiftUI_BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DE84822BA3DECC00A4D0C7 /* SwiftUI_BetterRestApp.swift */; };
 		74DE84852BA3DECC00A4D0C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DE84842BA3DECC00A4D0C7 /* ContentView.swift */; };
 		74DE84872BA3DECD00A4D0C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74DE84862BA3DECD00A4D0C7 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		74C601832BA3EDE6001915C7 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = SOURCE_ROOT; };
 		74DE847F2BA3DECC00A4D0C7 /* SwiftUI-BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-BetterRest.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74DE84822BA3DECC00A4D0C7 /* SwiftUI_BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BetterRestApp.swift; sourceTree = "<group>"; };
 		74DE84842BA3DECC00A4D0C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				74DE84822BA3DECC00A4D0C7 /* SwiftUI_BetterRestApp.swift */,
 				74DE84842BA3DECC00A4D0C7 /* ContentView.swift */,
+				74C601832BA3EDE6001915C7 /* SleepCalculator.mlmodel */,
 				74DE84862BA3DECD00A4D0C7 /* Assets.xcassets */,
 				74DE84882BA3DECD00A4D0C7 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74DE84852BA3DECC00A4D0C7 /* ContentView.swift in Sources */,
+				74C601842BA3EDE6001915C7 /* SleepCalculator.mlmodel in Sources */,
 				74DE84832BA3DECC00A4D0C7 /* SwiftUI_BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
